@@ -26,7 +26,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 
 - **Nama Lengkap**: Muhammad Fauzan As Shabierin  
   **NIM**: 122140074  
-  **GitHub ID**: [username_github_fauzan]  
+  **GitHub ID**: Mfauzanasshabierin  
 
 ---
 

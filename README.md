@@ -22,7 +22,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 
 - **Nama Lengkap**: Desty Ananta Purba  
   **NIM**: 122140076  
-  **GitHub ID**: [username_github_desty]  
+  **GitHub ID**: destyananta 
 
 - **Nama Lengkap**: Muhammad Fauzan As Shabierin  
   **NIM**: 122140074  

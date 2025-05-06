@@ -33,8 +33,8 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 ## 📅 Logbook Mingguan  
 | Minggu | Topik | Progress |
 |--------|-------|----------|
-| **Minggu 1** | Setup Proyek & Ide | - Menentukan konsep aplikasi<br>- Membuat repositori GitHub<br>- Instalasi library deteksi gestur (MediaPipe) |
-| **Minggu 2** |                    |                            |
+| **Minggu 1** | Setup Proyek & Ide | - Menentukan konsep aplikasi<br>- Membuat repositori GitHub |
+| **Minggu 2** | Mastering Github dan Remote | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek |
 | **Minggu 3** |                    |                            |
 | **Minggu 4** |                    |                            |
 | **Minggu 5** |                    |                            |

@@ -18,7 +18,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 ## 🧑‍💻 Anggota Tim  
 - **Nama Lengkap**: Ramon Riping  
   **NIM**: 122140078
-  **GitHub ID**: Nommm-03
+  **GitHub ID**: RamonR122140078
 
 - **Nama Lengkap**: Desty Ananta Purba  
   **NIM**: 122140076  

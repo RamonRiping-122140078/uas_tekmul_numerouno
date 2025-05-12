@@ -34,8 +34,8 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 | Minggu | Topik | Progress |
 |--------|-------|----------|
 | **Minggu 1** | Setup Proyek & Ide | - Menentukan konsep aplikasi<br>- Membuat repositori GitHub |
-| **Minggu 2** | Mastering Github dan Remote | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek<br>- Membuat code untuk UI Menu<br> - Menerapkan MediaPipe Hand Landmarks |
-| **Minggu 3** |                    |                            |
+| **Minggu 2** | Mastering Github dan Inisiasi Fitur | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek<br>- Membuat code untuk UI Menu<br> - Menerapkan MediaPipe Hand Landmarks |
+| **Minggu 3** | Pembuatan Menu dan Permainan | - Menggabungkan Menu dan Hand Landmarks<br> - Mengatur Waktu Menjawab Per Pertanyaan |
 | **Minggu 4** |                    |                            |
 | **Minggu 5** |                    |                            |
 

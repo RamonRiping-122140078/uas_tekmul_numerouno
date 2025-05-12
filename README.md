@@ -18,7 +18,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 ## 🧑‍💻 Anggota Tim  
 - **Nama Lengkap**: Ramon Riping  
   **NIM**: 122140078
-  **GitHub ID**: Nommm-03
+  **GitHub ID**: RamonR122140078
 
 - **Nama Lengkap**: Desty Ananta Purba  
   **NIM**: 122140076  
@@ -34,7 +34,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 | Minggu | Topik | Progress |
 |--------|-------|----------|
 | **Minggu 1** | Setup Proyek & Ide | - Menentukan konsep aplikasi<br>- Membuat repositori GitHub |
-| **Minggu 2** | Mastering Github dan Remote | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek |
+| **Minggu 2** | Mastering Github dan Remote | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek<br>- Membuat code untuk UI Menu<br> - Menerapkan MediaPipe Hand Landmarks |
 | **Minggu 3** |                    |                            |
 | **Minggu 4** |                    |                            |
 | **Minggu 5** |                    |                            |

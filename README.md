@@ -4,8 +4,14 @@
 
 <h1 align="center">🧮 Interactive Maths 🧮</h1>
 
-[![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/uas_tekmul_numeruno)](https://github.com/RamonRiping-122140078/uas_tekmul_numerouno.git)
-[![Github Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg)](#)
+<p align="center">
+  <a href="https://github.com/RamonRiping-122140078/uas_tekmul_numerouno">
+    <img src="https://img.shields.io/github/commit-activity/m/RamonR122140078/uas_tekmul_numeruno" alt="Github Commit" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/all_contributors-3-blue.svg" alt="Github Contributors" />
+  </a>
+</p>
 
 ## **🧮Daftar Isi**
 [Deskripsi Proyek](#deskripsi-proyek)

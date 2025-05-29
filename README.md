@@ -61,8 +61,8 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 ## **🧮Instruksi Instalasi**
 1. **Clone repositori**:  
 ```bash
-git clone https://github.com/RamonR122140078/uas_tekmul_numeruno.git
-cd uas-tekmul-numeruno
+git clone https://github.com/RamonR122140078/uas_tekmul_numerouno.git
+cd uas-tekmul-numerouno
 ```
 
 2. **Instal semua dependensi yang diperlukan**:

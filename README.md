@@ -2,7 +2,7 @@
   <img src="asset\readme\allmember.png" width="100%" />
   <h1> 🧮Interactive Maths🧮</h1>
 
-  [![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/uas_tekmul_numeruno)](#)
+  [![Github Commit](https://github.com/RamonRiping-122140078/uas_tekmul_numerouno.git)](#)
   [![Github Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg)](#)
 </div>
 

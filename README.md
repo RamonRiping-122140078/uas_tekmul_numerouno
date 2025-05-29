@@ -65,15 +65,32 @@ git clone https://github.com/RamonR122140078/uas_tekmul_numerouno.git
 cd uas-tekmul-numerouno
 ```
 
-2. **Instal semua dependensi yang diperlukan**:
+2. **Buat virtual environment menggunakan uv**
 ```bash
-pip install -r requirements.txt
+uv venv --python=python3.10
+```
+Ini akan membuat folder .venv/ di dalam repo.
+
+3. Aktifkan virtual environment
+- Di Linux/macOS:
+```bash
+source .venv/bin/activate
+```
+- Di Windows:
+```bash
+.venv\Scripts\activate
 ```
 
-3. **Jalankan program**:
+4. **Instal semua dependensi yang diperlukan**:
+```bash
+uv pip install -U -r requirements.txt
+```
+
+5. **Jalankan program**:
 ```bash
 python main.py
 ```
+
 ## **🧮Instruksi & Aturan Permaianan**
 
 

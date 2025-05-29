@@ -1,10 +1,11 @@
-<div align="center">
-  <img src="asset\readme\allmember.png" width="100%" />
-  <h1> 🧮Interactive Maths🧮</h1>
+<p align="center">
+  <img src="asset/readme/allmember.png" width="100%" />
+</p>
 
-  [![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/uas_tekmul_numeruno)](https://github.com/RamonRiping-122140078/uas_tekmul_numerouno.git)
-  [![Github Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg)](#)
-</div>
+<h1 align="center">🧮 Interactive Maths 🧮</h1>
+
+[![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/uas_tekmul_numeruno)](https://github.com/RamonRiping-122140078/uas_tekmul_numerouno.git)
+[![Github Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg)](#)
 
 ## **🧮Daftar Isi**
 [Deskripsi Proyek](#deskripsi-proyek)

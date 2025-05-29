@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="Images/Mentahan/BIReadme.png" width="100%" />
+  <img src="asset\readme\allmember.png" width="100%" />
   <h1> 🧮Interactive Maths🧮</h1>
 
   [![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/interactive-maths)](#)
   [![Github Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg)](#)
 </div>
 
-## <img src="Images/Mentahan/Panah.svg" width="30px;"/> **🧮Daftar Isi**
+## **🧮Daftar Isi**
 [Deskripsi Proyek](#deskripsi-proyek)
 
 [Anggota Tim](#anggota-tim)
@@ -34,19 +34,18 @@ Sistem akan:
 Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara menyenangkan!
 
 ## **🧮Anggota Tim**
-| [<img src="Images/Mentahan/DefaultUser.png" width="100px;"/><br /><sub><b>Ramon Riping</b></sub>](https://github.com/RamonR122140078)<br />122140078 <br /> | [<img src="Images/Mentahan/DefaultUser.png" width="100px;"/><br /><sub><b>Desty Ananta Purba</b></sub>](https://github.com/destyananta)<br />122140076 <br /> | [<img src="Images/Mentahan/DefaultUser.png" width="100px;"/><br /><sub><b>Muhammad Fauzan As Shabierin</b></sub>](https://github.com/Mfauzanasshabierin)<br />122140074 <br /> |
+| [<img src="asset\readme\ramon.png" width="100px;"/><br /><sub><b>Ramon Riping</b></sub>](https://github.com/RamonR122140078)<br />122140078 <br /> | [<img src="asset\readme\desty.png" width="100px;"/><br /><sub><b>Desty Ananta Purba</b></sub>](https://github.com/destyananta)<br />122140076 <br /> | [<img src="asset\readme\fauzan.png" width="100px;"/><br /><sub><b>Muhammad Fauzan As Shabierin</b></sub>](https://github.com/Mfauzanasshabierin)<br />122140074 <br /> |
 |--|--|--|
 
-## **🧮Technology Application**
+## **🧮Teknologi Aplikasi**
 <div align="left">
 
-| Technology | Name | Description |
-| :---: | :---: | :---: |
-| <img src="Images/Logo Apps/Python.png" style="width:50px;"/> | **Python** | Bahasa pemrograman utama yang digunakan dalam pengembangan aplikasi. |
-| <img src="Images/Logo Apps/Pygame.png" style="width:50px;"/> | **Pygame** | Library Python untuk membuat antarmuka pengguna dan efek suara dalam game edukatif. |
-| <img src="Images/Logo Apps/Mediapipe.png" style="width:50px;"/> | **MediaPipe** | Digunakan untuk melacak jumlah jari tangan secara real-time dengan akurasi tinggi. |
-| <img src="Images/Logo Apps/OpenCV.png" style="width:50px;"/> | **CV2 (OpenCV)** | Menangkap video dari webcam dan memprosesnya untuk digunakan oleh MediaPipe. |
-| <img src="Images/Logo Apps/Numpy.png" style="width:50px;"/> | **NumPy** | Digunakan untuk pengolahan data numerik seperti koordinat jari dan logika evaluasi jawaban. |
+| Name | Description |
+| :---: | :---: |
+| **Python** | Bahasa pemrograman utama yang digunakan dalam pengembangan aplikasi. |
+| **MediaPipe** | Digunakan untuk melacak jumlah jari tangan secara real-time dengan akurasi tinggi. |
+| **CV2 (OpenCV)** | Menangkap video dari webcam dan memprosesnya untuk digunakan oleh MediaPipe. |
+| **NumPy** | Digunakan untuk pengolahan data numerik seperti koordinat jari dan logika evaluasi jawaban. |
 
 </div>
 
@@ -76,11 +75,11 @@ python main.py
 | **Minggu 4** |                    |                            |
 | **Minggu 5** |                    |                            |
 
-## **🧮Report**
+## **🧮Laporan**
 Laporan akhir proyek dapat diakses melalui:  
-[Report](https://www.overleaf.com/read/xpcxmdtnpbxt#63b1b0)
+[Laporan](https://www.overleaf.com/read/krbpfdtybsws#f35f54)
 
-## **🧮Program Demonstration**
+## **🧮Demo Program**
 Berikut adalah video demonstrasi dari program Interactive Maths:
 
 <a href="https://youtu.be/yourdemoid" target="_blank">

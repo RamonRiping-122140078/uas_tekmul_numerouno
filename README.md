@@ -2,7 +2,7 @@
   <img src="asset\readme\allmember.png" width="100%" />
   <h1> 🧮Interactive Maths🧮</h1>
 
-  [![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/interactive-maths)](#)
+  [![Github Commit](https://img.shields.io/github/commit-activity/m/RamonR122140078/uas_tekmul_numerouno)](#)
   [![Github Contributors](https://img.shields.io/badge/all_contributors-3-blue.svg)](#)
 </div>
 
@@ -14,6 +14,8 @@
 [Teknologi aplikasi](#teknologi-applikasi)
 
 [Instruksi Instalasi ](#instruksi-instalasi)
+
+[Instruksi & Aturan Permaianan ](#instruksi-&-aturan-permainan)
 
 [Logbook Mingguan](#logbook-mingguan)
 
@@ -52,7 +54,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 ## **🧮Instruksi Instalasi**
 1. **Clone repositori**:  
 ```bash
-git clone https://github.com/RamonR122140078/uas-tekmul-numeruno.git
+git clone https://github.com/RamonR122140078/uas_tekmul_numeruno.git
 cd uas-tekmul-numeruno
 ```
 
@@ -65,6 +67,8 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+## **🧮Instruksi & Aturan Permaianan**
+
 
 ## **🧮Logbook Mingguan**
 | Minggu | Topik | Progress |

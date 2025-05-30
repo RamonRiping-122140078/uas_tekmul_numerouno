@@ -55,6 +55,7 @@ Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara me
 | **MediaPipe** | Digunakan untuk melacak jumlah jari tangan secara real-time dengan akurasi tinggi. |
 | **CV2 (OpenCV)** | Menangkap video dari webcam dan memprosesnya untuk digunakan oleh MediaPipe. |
 | **NumPy** | Digunakan untuk pengolahan data numerik seperti koordinat jari dan logika evaluasi jawaban. |
+| **Pygame** | Digunakan untuk membuat antarmuka grafis interaktif seperti tampilan soal matematika, teks jawaban, dan umpan balik audio/visual. |
 
 </div>
 
@@ -113,6 +114,26 @@ python main.py
 - Jika waktu (6 detik) habis dan belum ada jawaban, dianggap salah.
 - Skor maksimal adalah **100 poin**.
 - Permainan dapat diulang tanpa batas dengan menekan tombol "Try Again".
+
+## 🖐 Panduan Posisi Jari Berdasarkan Angka
+<table align="center">
+  <tr>
+    <td align="center"><img src="asset\readme\angka0.png" width="100px"><br><b>Angka 0</b></td>
+    <td align="center"><img src="asset\readme\angka1.png" width="100px"><br><b>Angka 1</b></td>
+    <td align="center"><img src="asset\readme\angka2.png" width="100px"><br><b>Angka 2</b></td>
+    <td align="center"><img src="asset\readme\angka3.png" width="100px"><br><b>Angka 3</b></td>
+    <td align="center"><img src="asset\readme\angka4.png" width="100px"><br><b>Angka 4</b></td>
+    <td align="center"><img src="asset\readme\angka5.png" width="100px"><br><b>Angka 5</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="asset\readme\angka6.png" width="100px"><br><b>Angka 6</b></td>
+    <td align="center"><img src="asset\readme\angka7.png" width="100px"><br><b>Angka 7</b></td>
+    <td align="center"><img src="asset\readme\angka8.png" width="100px"><br><b>Angka 8</b></td>
+    <td align="center"><img src="asset\readme\angka9.png" width="100px"><br><b>Angka 9</b></td>
+    <td align="center"><img src="asset\readme\angka10.png" width="100px"><br><b>Angka 10</b></td>
+    <td></td>
+  </tr>
+</table>
 
 ## **🧮Logbook Mingguan**
 | Minggu       | Topik                          | Progress                                                                 |

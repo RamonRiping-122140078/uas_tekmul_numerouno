@@ -116,6 +116,9 @@ python main.py
 - Permainan dapat diulang tanpa batas dengan menekan tombol "Try Again".
 
 ## 🖐 Panduan Posisi Jari Berdasarkan Angka
+- Pastikan jari terlihat jelas di depan kamera agar sistem dapat mengenali angka dengan akurat.
+- Saat bermain, arahkan *telapak tangan menghadap kamera*, bukan bagian punggung tangan.
+- Hindari gerakan cepat atau posisi tangan terlalu miring agar sistem tidak kesulitan mengenali jumlah jari.
 <table align="center">
   <tr>
     <td align="center"><img src="asset\readme\angka0.png" width="100px"><br><b>Angka 0</b></td>

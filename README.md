@@ -91,17 +91,38 @@ uv pip install -U -r requirements.txt
 python main.py
 ```
 
-## **🧮Instruksi & Aturan Permaianan**
+## 🧮Instruksi & Aturan Permainan
 
+### Cara Bermain
+1. **Jalankan program** dan pastikan webcam aktif.
+2. Pada menu utama, arahkan tangan ke tombol "Start" untuk memulai permainan.
+3. Setelah permainan dimulai, wajah Anda akan terdeteksi dan soal matematika akan muncul di atas kepala Anda.
+4. Jawab soal dengan menunjukkan jumlah jari tangan sesuai hasil perhitungan ke kamera.
+   - Anda bisa menggunakan satu atau dua tangan untuk menunjukkan angka 0-10.
+5. Sistem akan otomatis mendeteksi jumlah jari dan menampilkan jawaban Anda di layar.
+6. Anda memiliki waktu **7 detik** untuk setiap soal.
+7. Setelah waktu habis, sistem akan memberi tahu apakah jawaban Anda benar atau salah, baik secara visual maupun suara.
+8. Permainan terdiri dari **5 soal acak**.
+9. Setelah semua soal selesai, skor akhir akan ditampilkan.
+10. Tekan tombol "Try Again" dengan tangan untuk mengulang permainan, atau tekan tombol `Q` pada keyboard untuk keluar.
+
+### Aturan Permainan
+- Jawaban hanya diterima dalam bentuk jumlah jari yang terdeteksi kamera (0-10).
+- Setiap jawaban benar mendapat **20 poin**.
+- Tidak ada penambahan dan pengurangan nilai untuk jawaban salah.
+- Jika waktu (6 detik) habis dan belum ada jawaban, dianggap salah.
+- Skor maksimal adalah **100 poin**.
+- Permainan dapat diulang tanpa batas dengan menekan tombol "Try Again".
 
 ## **🧮Logbook Mingguan**
-| Minggu | Topik | Progress |
-|--------|-------|----------|
-| **Minggu 1** | Setup Proyek & Ide | - Menentukan konsep aplikasi<br>- Membuat repositori GitHub |
-| **Minggu 2** | Mastering Github dan Inisiasi Fitur | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek<br>- Membuat code untuk UI Menu<br> - Menerapkan MediaPipe Hand Landmarks |
-| **Minggu 3** | Pembuatan Menu dan Permainan | - Menggabungkan Menu dan Hand Landmarks<br> - Mengatur Waktu Menjawab Per Pertanyaan |
-| **Minggu 4** |                    |                            |
-| **Minggu 5** |                    |                            |
+| Minggu       | Topik                          | Progress                                                                 |
+|--------------|--------------------------------|--------------------------------------------------------------------------|
+| **Minggu 1** | Setup Proyek & Ide             | - Menentukan konsep aplikasi<br>- Membuat repositori GitHub             |
+| **Minggu 2** | Mastering Github dan Inisiasi Fitur | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek<br>- Membuat code untuk UI Menu<br>- Menerapkan MediaPipe Hand Landmarks |
+| **Minggu 3** | Pembuatan Menu dan Permainan   | - Menggabungkan Menu dan Hand Landmarks<br>- Mengatur Waktu Menjawab Per Pertanyaan |
+| **Minggu 4** | Finalisasi                     | - Fiksasi tampilan akhir<br>- Penambahan backsound<br>- Pembuatan laporan<br>- Pembuatan video |
+| **Minggu 5** |                                |                                                                          |
+
 
 ## **🧮Laporan**
 Laporan akhir proyek dapat diakses melalui:  

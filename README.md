@@ -43,7 +43,7 @@ Sistem akan:
 Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara menyenangkan!
 
 ## **🧮Anggota Tim**
-| [<img src="project\readme\ramon.png" width="100px;"/><br /><sub><b>Ramon Riping</b></sub>](https://github.com/RamonR122140078)<br />122140078 <br /> | [<img src="project\readme\desty.png" width="100px;"/><br /><sub><b>Desty Ananta Purba</b></sub>](https://github.com/destyananta)<br />122140076 <br /> | [<img src="project\readme\fauzan.png" width="100px;"/><br /><sub><b>Muhammad Fauzan As Shabierin</b></sub>](https://github.com/Mfauzanasshabierin)<br />122140074 <br /> |
+| [<img src="project\asset\readme\ramon.png" width="100px;"/><br /><sub><b>Ramon Riping</b></sub>](https://github.com/RamonR122140078)<br />122140078 <br /> | [<img src="project\asset\readme\desty.png" width="100px;"/><br /><sub><b>Desty Ananta Purba</b></sub>](https://github.com/destyananta)<br />122140076 <br /> | [<img src="project\asset\readme\fauzan.png" width="100px;"/><br /><sub><b>Muhammad Fauzan As Shabierin</b></sub>](https://github.com/Mfauzanasshabierin)<br />122140074 <br /> |
 |--|--|--|
 
 ## **🧮Teknologi Aplikasi**
@@ -89,6 +89,7 @@ uv pip install -U -r requirements.txt
 
 5. **Jalankan program**:
 ```bash
+cd project 
 python main.py
 ```
 
@@ -119,19 +120,19 @@ python main.py
 Berikut adalah gambar-gambar referensi posisi tangan yang benar agar sistem dapat mengenali angka dari 0 hingga 10 dengan akurat:
 <table align="center">
   <tr>
-    <td align="center"><img src="project\readme\angka0.png" width="100px"><br><b>Angka 0</b></td>
-    <td align="center"><img src="project\readme\angka1.png" width="100px"><br><b>Angka 1</b></td>
-    <td align="center"><img src="project\readme\angka2.png" width="100px"><br><b>Angka 2</b></td>
-    <td align="center"><img src="project\readme\angka3.png" width="100px"><br><b>Angka 3</b></td>
-    <td align="center"><img src="project\readme\angka4.png" width="100px"><br><b>Angka 4</b></td>
-    <td align="center"><img src="project\readme\angka5.png" width="100px"><br><b>Angka 5</b></td>
+    <td align="center"><img src="project\asset\readme\angka0.png" width="100px"><br><b>Angka 0</b></td>
+    <td align="center"><img src="project\asset\readme\angka1.png" width="100px"><br><b>Angka 1</b></td>
+    <td align="center"><img src="project\asset\readme\angka2.png" width="100px"><br><b>Angka 2</b></td>
+    <td align="center"><img src="project\asset\readme\angka3.png" width="100px"><br><b>Angka 3</b></td>
+    <td align="center"><img src="project\asset\readme\angka4.png" width="100px"><br><b>Angka 4</b></td>
+    <td align="center"><img src="project\asset\readme\angka5.png" width="100px"><br><b>Angka 5</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="project\readme\angka6.png" width="100px"><br><b>Angka 6</b></td>
-    <td align="center"><img src="project\readme\angka7.png" width="100px"><br><b>Angka 7</b></td>
-    <td align="center"><img src="project\readme\angka8.png" width="100px"><br><b>Angka 8</b></td>
-    <td align="center"><img src="project\readme\angka9.png" width="100px"><br><b>Angka 9</b></td>
-    <td align="center"><img src="project\readme\angka10.png" width="100px"><br><b>Angka 10</b></td>
+    <td align="center"><img src="project\asset\readme\angka6.png" width="100px"><br><b>Angka 6</b></td>
+    <td align="center"><img src="project\asset\readme\angka7.png" width="100px"><br><b>Angka 7</b></td>
+    <td align="center"><img src="project\asset\readme\angka8.png" width="100px"><br><b>Angka 8</b></td>
+    <td align="center"><img src="project\asset\readme\angka9.png" width="100px"><br><b>Angka 9</b></td>
+    <td align="center"><img src="project\asset\readme\angka10.png" width="100px"><br><b>Angka 10</b></td>
     <td></td>
   </tr>
 </table>
@@ -148,7 +149,7 @@ Berikut adalah gambar-gambar referensi posisi tangan yang benar agar sistem dapa
 | **Minggu 2** | Mastering Github dan Inisiasi Fitur | - Membuat branch masing - masing<br>- Membuat desain dan project proyek<br>- Membuat code untuk UI Menu<br>- Menerapkan MediaPipe Hand Landmarks |
 | **Minggu 3** | Pembuatan Menu dan Permainan   | - Menggabungkan Menu dan Hand Landmarks<br>- Mengatur Waktu Menjawab Per Pertanyaan |
 | **Minggu 4** | Finalisasi                     | - Fiksasi tampilan akhir<br>- Penambahan backsound<br>- Pembuatan laporan<br>- Pembuatan video |
-| **Minggu 5** |                                |                                                                          |
+
 
 
 ## **🧮Laporan**

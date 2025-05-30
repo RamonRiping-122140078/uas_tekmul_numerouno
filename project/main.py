@@ -13,7 +13,7 @@ def main():
     Menginisialisasi aset, webcam, dan mengelola alur permainan.
     """
     # Memuat aset dari folder
-    asset_dir = os.path.join(os.getcwd(), 'project', 'asset')
+    asset_dir = os.path.join(os.getcwd(), 'asset')
     logo_path = os.path.join(asset_dir, 'logo.png')
     button_path = os.path.join(asset_dir, 'buttonstart.png')
     tryagain_path = os.path.join(asset_dir, 'buttontryagain.png')

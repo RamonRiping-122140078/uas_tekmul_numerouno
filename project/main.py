@@ -170,7 +170,7 @@ def main():
                     )
             
             # Menampilkan frame
-            cv2.imshow('Kamera', frame)
+            cv2.imshow('Interactive Maths', frame)
             if cv2.waitKey(1) & 0xFF == ord('q'):
                 break
     

@@ -154,6 +154,7 @@ Berikut adalah gambar-gambar referensi posisi tangan yang benar agar sistem dapa
 ## **🧮Laporan**
 Laporan akhir proyek dapat diakses melalui:  
 [Laporan](https://www.overleaf.com/read/krbpfdtybsws#f35f54)
+- Koordinator Laporan : Desty Ananta Purba
 
 ## **🧮Demo Program**
 Berikut adalah video demonstrasi dari program Interactive Maths:

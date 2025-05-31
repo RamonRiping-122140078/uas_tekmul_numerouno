@@ -159,5 +159,5 @@ Laporan akhir proyek dapat diakses melalui:
 Berikut adalah video demonstrasi dari program Interactive Maths:
 
 <a href="https://youtu.be/bLSM3OD-eHI?si=YeFdEFlwinmCt2wY" target="_blank">
-  <img src="https://i.ytimg.com/vi/yourdemoid/maxresdefault.jpg" alt="Presentation Video">
+  <img src="https://i.ytimg.com/vi/https://youtu.be/bLSM3OD-eHI?si=YeFdEFlwinmCt2wY/maxresdefault.jpg" alt="Presentation Video">
 </a>

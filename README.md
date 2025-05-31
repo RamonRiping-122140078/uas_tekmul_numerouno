@@ -149,7 +149,6 @@ Berikut adalah gambar-gambar referensi posisi tangan yang benar agar sistem dapa
 | **Minggu 2** | Mastering Github dan Inisiasi Fitur | - Membuat branch masing - masing<br>- Membuat desain dan asset proyek<br>- Membuat code untuk UI Menu<br>- Menerapkan MediaPipe Hand Landmarks |
 | **Minggu 3** | Pembuatan Menu dan Permainan   | - Menggabungkan Menu dan Hand Landmarks<br>- Mengatur Waktu Menjawab Per Pertanyaan |
 | **Minggu 4** | Finalisasi                     | - Fiksasi tampilan akhir<br>- Penambahan backsound<br>- Pembuatan laporan<br>- Pembuatan video |
-| **Minggu 5** |                                |                                                                          |
 
 
 ## **🧮Laporan**

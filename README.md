@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="asset/readme/allmember.png" width="100%" />
+  <img src="project/asset/readme/allmember.png" width="100%" />
 </p>
 
 <h1 align="center">🧮 Interactive Maths 🧮</h1>
@@ -43,7 +43,7 @@ Sistem akan:
 Cocok untuk anak-anak dan siapa pun yang ingin belajar matematika dengan cara menyenangkan!
 
 ## **🧮Anggota Tim**
-| [<img src="asset\readme\ramon.png" width="100px;"/><br /><sub><b>Ramon Riping</b></sub>](https://github.com/RamonR122140078)<br />122140078 <br /> | [<img src="asset\readme\desty.png" width="100px;"/><br /><sub><b>Desty Ananta Purba</b></sub>](https://github.com/destyananta)<br />122140076 <br /> | [<img src="asset\readme\fauzan.png" width="100px;"/><br /><sub><b>Muhammad Fauzan As Shabierin</b></sub>](https://github.com/Mfauzanasshabierin)<br />122140074 <br /> |
+| [<img src="project\asset\readme\ramon.png" width="100px;"/><br /><sub><b>Ramon Riping</b></sub>](https://github.com/RamonR122140078)<br />122140078 <br /> | [<img src="project\asset\readme\desty.png" width="100px;"/><br /><sub><b>Desty Ananta Purba</b></sub>](https://github.com/destyananta)<br />122140076 <br /> | [<img src="project\asset\readme\fauzan.png" width="100px;"/><br /><sub><b>Muhammad Fauzan As Shabierin</b></sub>](https://github.com/Mfauzanasshabierin)<br />122140074 <br /> |
 |--|--|--|
 
 ## **🧮Teknologi Aplikasi**
@@ -89,6 +89,7 @@ uv pip install -U -r requirements.txt
 
 5. **Jalankan program**:
 ```bash
+cd project
 python main.py
 ```
 
@@ -119,19 +120,19 @@ python main.py
 Berikut adalah gambar-gambar referensi posisi tangan yang benar agar sistem dapat mengenali angka dari 0 hingga 10 dengan akurat:
 <table align="center">
   <tr>
-    <td align="center"><img src="asset\readme\angka0.png" width="100px"><br><b>Angka 0</b></td>
-    <td align="center"><img src="asset\readme\angka1.png" width="100px"><br><b>Angka 1</b></td>
-    <td align="center"><img src="asset\readme\angka2.png" width="100px"><br><b>Angka 2</b></td>
-    <td align="center"><img src="asset\readme\angka3.png" width="100px"><br><b>Angka 3</b></td>
-    <td align="center"><img src="asset\readme\angka4.png" width="100px"><br><b>Angka 4</b></td>
-    <td align="center"><img src="asset\readme\angka5.png" width="100px"><br><b>Angka 5</b></td>
+    <td align="center"><img src="project\asset\readme\angka0.png" width="100px"><br><b>Angka 0</b></td>
+    <td align="center"><img src="project\asset\readme\angka1.png" width="100px"><br><b>Angka 1</b></td>
+    <td align="center"><img src="project\asset\readme\angka2.png" width="100px"><br><b>Angka 2</b></td>
+    <td align="center"><img src="project\asset\readme\angka3.png" width="100px"><br><b>Angka 3</b></td>
+    <td align="center"><img src="project\asset\readme\angka4.png" width="100px"><br><b>Angka 4</b></td>
+    <td align="center"><img src="project\asset\readme\angka5.png" width="100px"><br><b>Angka 5</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="asset\readme\angka6.png" width="100px"><br><b>Angka 6</b></td>
-    <td align="center"><img src="asset\readme\angka7.png" width="100px"><br><b>Angka 7</b></td>
-    <td align="center"><img src="asset\readme\angka8.png" width="100px"><br><b>Angka 8</b></td>
-    <td align="center"><img src="asset\readme\angka9.png" width="100px"><br><b>Angka 9</b></td>
-    <td align="center"><img src="asset\readme\angka10.png" width="100px"><br><b>Angka 10</b></td>
+    <td align="center"><img src="project\asset\readme\angka6.png" width="100px"><br><b>Angka 6</b></td>
+    <td align="center"><img src="project\asset\readme\angka7.png" width="100px"><br><b>Angka 7</b></td>
+    <td align="center"><img src="project\asset\readme\angka8.png" width="100px"><br><b>Angka 8</b></td>
+    <td align="center"><img src="project\asset\readme\angka9.png" width="100px"><br><b>Angka 9</b></td>
+    <td align="center"><img src="project\asset\readme\angka10.png" width="100px"><br><b>Angka 10</b></td>
     <td></td>
   </tr>
 </table>
@@ -158,6 +159,6 @@ Laporan akhir proyek dapat diakses melalui:
 ## **🧮Demo Program**
 Berikut adalah video demonstrasi dari program Interactive Maths:
 
-<a href="https://youtu.be/yourdemoid" target="_blank">
+<a href="https://youtu.be/bLSM3OD-eHI?si=YeFdEFlwinmCt2wY" target="_blank">
   <img src="https://i.ytimg.com/vi/yourdemoid/maxresdefault.jpg" alt="Presentation Video">
 </a>
